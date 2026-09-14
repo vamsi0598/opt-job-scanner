@@ -1,0 +1,31 @@
+name: Poll DevOps/SRE postings
+
+on:
+  schedule:
+    # Every 30 min, 12:00-23:00 UTC — a window wide enough to cover
+    # 8am-6pm Eastern in both EST and EDT. poll_jobs.py itself checks the
+    # real America/New_York clock and no-ops outside 8am-6pm ET, so this
+    # only needs to be generous, not exact.
+    - cron: "*/30 12-23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python poll_jobs.py
+      - name: Commit new postings
+        run: |
+          git config user.name "job-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/postings.csv state/new_this_run.json
+          git diff --cached --quiet || git commit -m "Update DevOps/SRE postings"
+          git push

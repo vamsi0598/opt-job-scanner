@@ -1,0 +1,27 @@
+name: Discover ATS coverage
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday 06:00 UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python discover_ats.py
+      - name: Commit updated ATS map
+        run: |
+          git config user.name "job-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/ats_map.json
+          git diff --cached --quiet || git commit -m "Refresh ATS coverage map"
+          git push
