@@ -34,6 +34,19 @@ doesn't change often:
    30 min during the day. Check `state/postings.csv` in the repo for results, or watch
    `state/new_this_run.json` for just what's new each run.
 
+## Filters
+
+- **US-only locations** — `is_us_location()` in `config.py` keeps jobs explicitly marked
+  US (state names/abbreviations, "United States", "Remote - US") and bare/no-location
+  postings (ambiguous, likely US on a US employer's board), and drops anything explicitly
+  marked with a non-US country or city. Tune `NON_US_MARKERS` / `INCLUDE_AMBIGUOUS_LOCATIONS`
+  in `config.py` if you want it stricter or looser.
+- **Posted within 24 hours** — each platform reports this differently: Greenhouse and
+  Lever give exact timestamps, so those are precise. Workday's public search API only
+  gives relative, day-granularity text ("Posted Today", "Posted 3 Days Ago"), so for
+  Workday this really means "posted today," the closest available approximation. Adjust
+  `RECENT_WINDOW_HOURS` in `config.py` to change the window.
+
 ## Extending it
 
 - Add more titles to `TITLE_PATTERN` in `config.py` (e.g. Platform Engineer, Cloud Engineer).

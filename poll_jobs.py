@@ -21,6 +21,7 @@ import requests
 from config import (
     TITLE_PATTERN, ACTIVE_START_HOUR, ACTIVE_END_HOUR, REQUEST_TIMEOUT,
     USER_AGENT, ATS_MAP_PATH, POSTINGS_CSV_PATH, NEW_POSTINGS_PATH,
+    is_us_location, is_recent_greenhouse, is_recent_lever, is_recent_workday,
 )
 
 HEADERS = {"User-Agent": USER_AGENT}
@@ -41,8 +42,8 @@ def fetch_greenhouse(match):
     out = []
     for j in jobs:
         title = j.get("title", "")
-        if TITLE_PATTERN.search(title):
-            loc = (j.get("location") or {}).get("name", "")
+        loc = (j.get("location") or {}).get("name", "")
+        if TITLE_PATTERN.search(title) and is_us_location(loc) and is_recent_greenhouse(j):
             out.append({
                 "company": match["company"], "title": title, "location": loc,
                 "apply_link": j.get("absolute_url", ""), "source": "greenhouse",
@@ -57,8 +58,8 @@ def fetch_lever(match):
     out = []
     for j in jobs:
         title = j.get("text", "")
-        if TITLE_PATTERN.search(title):
-            loc = (j.get("categories") or {}).get("location", "")
+        loc = (j.get("categories") or {}).get("location", "")
+        if TITLE_PATTERN.search(title) and is_us_location(loc) and is_recent_lever(j):
             out.append({
                 "company": match["company"], "title": title, "location": loc,
                 "apply_link": j.get("hostedUrl", ""), "source": "lever",
@@ -81,12 +82,13 @@ def fetch_workday(match):
             continue
         for j in postings:
             title = j.get("title", "")
-            if TITLE_PATTERN.search(title):
+            loc = j.get("locationsText", "")
+            if TITLE_PATTERN.search(title) and is_us_location(loc) and is_recent_workday(j):
                 path = j.get("externalPath", "")
                 link = match["careers_url"].split("/wday", 1)[0] + path if path else match["careers_url"]
                 out.append({
                     "company": match["company"], "title": title,
-                    "location": j.get("locationsText", ""),
+                    "location": loc,
                     "apply_link": link, "source": "workday",
                 })
     return out
