@@ -10,18 +10,32 @@ Two scripts, because scraping 5,000 career pages every 30 minutes isn't realisti
 of that time is spent figuring out *whether a company even has a scrapable API*, which
 doesn't change often:
 
-1. **`discover_ats.py`** (runs weekly) — visits every employer's careers page once and
-   detects whether it's backed by Greenhouse, Lever, or Workday (the ATS platforms with a
-   public JSON jobs API). Writes `state/ats_map.json`. Realistically this will match maybe
-   10-20% of the 5,144 employers — most run on Workday/iCIMS/Taleo/custom systems that
-   either aren't detectable this way or don't expose a clean public API. Workday support
-   is best-effort (its API needs a per-tenant search payload); check `state/ats_map.json`
-   after the first run and expect to prune or fix a few entries.
+1. **`discover_ats.py`** (runs weekly) — for every employer, tries to detect whether it's
+   backed by Greenhouse, Lever, Workday, Ashby, SmartRecruiters, or Workable — the
+   platforms with a public JSON jobs API. Two passes: a passive scan of the careers page
+   HTML, and (for anything the passive scan misses — often JS-rendered pages) a
+   slug-guessing pass that tries the company name directly against each platform's API.
+   Writes `state/ats_map.json`. Workday support is best-effort (its API needs a
+   per-tenant search payload); check the map after a run and expect to prune a few
+   entries.
 
 2. **`poll_jobs.py`** (runs every 30 min, 8am-6pm ET, weekdays) — only reads the cached
    map from step 1, hits each matched company's lightweight jobs API directly, filters for
    DevOps/SRE titles, and upserts new postings into `state/postings.csv` (deduped by apply
-   link, so it doesn't rewrite everything every run).
+   link). Also queries two aggregator sources directly every run, independent of the ATS
+   map: RemoteOK (public, no key needed) and Adzuna (optional, needs a free API key —
+   see below).
+
+### On LinkedIn, Indeed, Dice, Monster, ZipRecruiter
+
+These don't have free public job-search APIs, and all five prohibit scraping in their
+Terms of Service, backed by real bot detection (Cloudflare/PerimeterX/DataDome,
+CAPTCHAs) — this repo doesn't attempt to scrape them. Adzuna is the closest legitimate
+substitute: a free-tier API that indexes listings from many boards. Sign up for a key at
+[developer.adzuna.com](https://developer.adzuna.com), then add `ADZUNA_APP_ID` and
+`ADZUNA_APP_KEY` as repo secrets (Settings -> Secrets and variables -> Actions). Without
+those secrets, Adzuna is just skipped — everything else still works.
+
 
 ## Deploy it (takes about 5 minutes)
 

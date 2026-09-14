@@ -24,6 +24,14 @@ ATS_MAP_PATH = "state/ats_map.json"
 POSTINGS_CSV_PATH = "state/postings.csv"
 NEW_POSTINGS_PATH = "state/new_this_run.json"
 
+# Adzuna is optional — sign up for a free API key at developer.adzuna.com and
+# add these as GitHub repo secrets (Settings -> Secrets and variables ->
+# Actions) named ADZUNA_APP_ID / ADZUNA_APP_KEY. If unset, Adzuna is simply
+# skipped — everything else still runs.
+import os
+ADZUNA_APP_ID = os.environ.get("ADZUNA_APP_ID", "")
+ADZUNA_APP_KEY = os.environ.get("ADZUNA_APP_KEY", "")
+
 # ---- US-only location filter ----
 
 US_STATE_NAMES = [
@@ -175,3 +183,42 @@ def is_recent_workday(job: dict) -> bool:
     if not posted:
         return True
     return posted in ("posted today", "today")
+
+
+def is_recent_ashby(job: dict) -> bool:
+    """Ashby's public posting API — field name has drifted between
+    'publishedAt' and 'publishedDate' across accounts; check both."""
+    dt = _parse_iso(job.get("publishedAt") or job.get("publishedDate"))
+    if not dt:
+        return True
+    return (datetime.now(timezone.utc) - dt) <= timedelta(hours=RECENT_WINDOW_HOURS)
+
+
+def is_recent_smartrecruiters(job: dict) -> bool:
+    """SmartRecruiters gives an exact 'releasedDate' timestamp."""
+    dt = _parse_iso(job.get("releasedDate"))
+    if not dt:
+        return True
+    return (datetime.now(timezone.utc) - dt) <= timedelta(hours=RECENT_WINDOW_HOURS)
+
+
+def is_recent_workable(job: dict) -> bool:
+    """Workable's widget API gives 'published_on' as a bare date
+    (YYYY-MM-DD, no time) — same day-granularity limitation as Workday."""
+    posted = job.get("published_on")
+    if not posted:
+        return True
+    try:
+        posted_date = datetime.fromisoformat(posted).date()
+    except ValueError:
+        return True
+    return (datetime.now(timezone.utc).date() - posted_date).days <= 1
+
+
+def is_recent_generic_iso(iso_timestamp) -> bool:
+    """For one-off/aggregator sources (RemoteOK, Adzuna) that give a single
+    exact ISO timestamp field."""
+    dt = _parse_iso(iso_timestamp)
+    if not dt:
+        return True
+    return (datetime.now(timezone.utc) - dt) <= timedelta(hours=RECENT_WINDOW_HOURS)
