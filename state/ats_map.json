@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-09-14 17:57:30 UTC",
+  "matches": [
+    {
+      "company": "Accenture",
+      "platform": "workday",
+      "slug": "accenture/AccentureCareers",
+      "api": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
+      "careers_url": "https://www.accenture.com/us-en/careers"
+    },
+    {
+      "company": "Capital One",
+      "platform": "workday",
+      "slug": "capitalone/Capital_One",
+      "api": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
+      "careers_url": "https://www.capitalonecareers.com"
+    },
+    {
+      "company": "Intel",
+      "platform": "workday",
+      "slug": "intel/External",
+      "api": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+      "careers_url": "https://jobs.intel.com"
+    },
+    {
+      "company": "Elevance Health",
+      "platform": "workday",
+      "slug": "elevancehealth/ANT",
+      "api": "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs",
+      "careers_url": "https://careers.elevancehealth.com"
+    },
+    {
+      "company": "Bank of America",
+      "platform": "workday",
+      "slug": "ghr/en-us",
+      "api": "https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/en-us/jobs",
+      "careers_url": "https://careers.bankofamerica.com"
+    },
+    {
+      "company": "Amgen",
+      "platform": "workday",
+      "slug": "amgen/en-US",
+      "api": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/en-US/jobs",
+      "careers_url": "https://careers.amgen.com"
+    },
+    {
+      "company": "Workday",
+      "platform": "workday",
+      "slug": "workday/Workday",
+      "api": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+      "careers_url": "https://www.workday.com/en-us/company/careers.html"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "platform": "workday",
+      "slug": "jj/JJ",
+      "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
+      "careers_url": "https://www.careers.jnj.com"
+    },
+    {
+      "company": "Cadence Design Systems",
+      "platform": "workday",
+      "slug": "cadence/External_Careers",
+      "api": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+      "careers_url": "https://www.cadence.com/en_US/home/company/careers.html"
+    },
+    {
+      "company": "Pfizer",
+      "platform": "workday",
+      "slug": "pfizer/PfizerCareers",
+      "api": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs",
+      "careers_url": "https://www.pfizer.com/about/careers"
+    },
+    {
+      "company": "Citi",
+      "platform": "workday",
+      "slug": "citi/en-US",
+      "api": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/en-US/jobs",
+      "careers_url": "https://jobs.citi.com"
+    },
+    {
+      "company": "Revature",
+      "platform": "workday",
+      "slug": "revature/revaturecareers",
+      "api": "https://revature.wd1.myworkdayjobs.com/wday/cxs/revature/revaturecareers/jobs",
+      "careers_url": "https://revature.com/careers/"
+    }
+  ]
+}
