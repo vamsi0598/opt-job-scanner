@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Cloud DevOps Engineer (AWS, Terraform, K8s, Automation)",
+    "location": "Cambridge, England, gb",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000150143626",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-17T11:39:52-04:00",
+    "last_seen": "2026-09-17T11:39:52-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Senior Software Development Engineer (SRE)",
+    "location": "Cambridge, England, gb",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000150093871",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-17T11:39:52-04:00",
+    "last_seen": "2026-09-17T11:39:52-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Senior Software Development Engineer (SRE)",
+    "location": "Katowice, Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000150083109",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-17T11:39:52-04:00",
+    "last_seen": "2026-09-17T11:39:52-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Senior Software Development Engineer (SRE)",
+    "location": "Wroc\u0142aw, Lower Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000150072300",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-17T11:39:52-04:00",
+    "last_seen": "2026-09-17T11:39:52-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Senior Software Development Engineer (SRE)",
+    "location": "Belgrade, rs",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000150071082",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-17T11:39:52-04:00",
+    "last_seen": "2026-09-17T11:39:52-04:00"
+  },
+  {
+    "company": "Visual Concepts Entertainment",
+    "title": "Lead Engineer, Dev Ops - WWE 2K",
+    "location": "California, United States",
+    "apply_link": "https://job-boards.greenhouse.io/visualconcepts/jobs/7997348003",
+    "source": "greenhouse",
+    "first_seen": "2026-09-17T11:39:52-04:00",
+    "last_seen": "2026-09-17T11:39:52-04:00"
+  }
+]
