@@ -1,83 +1,47 @@
 [
   {
+    "company": "Accenture",
+    "title": "Site Reliability DevOps Engineer",
+    "location": "",
+    "apply_link": "https://www.accenture.com/us-en/careers/job/Buenos-Aires/Site-Reliability-DevOps-Engineer_14740870",
+    "source": "workday",
+    "first_seen": "2026-09-22T12:46:29-04:00",
+    "last_seen": "2026-09-22T12:46:29-04:00"
+  },
+  {
     "company": "ServiceNow",
-    "title": "Staff Site Reliability Engineer - Federal",
-    "location": "San Diego, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000150737044",
+    "title": "Staff Software Engineer, DevOps - Moveworks",
+    "location": "Mountain View, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000150794579",
     "source": "smartrecruiters",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
+    "first_seen": "2026-09-22T12:46:29-04:00",
+    "last_seen": "2026-09-22T12:46:29-04:00"
   },
   {
-    "company": "Okta INC",
-    "title": "Senior Site Reliability Engineer (FedRAMP)",
-    "location": "San Francisco, California",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Okta INC",
-    "title": "Staff Site Reliability Engineer, Federal (TS/SCI)",
-    "location": "Washington, DC",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/8097489?gh_jid=8097489",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Okta INC",
-    "title": "Staff Site Reliability Engineer - Kubernetes",
-    "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/8160050?gh_jid=8160050",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Okta INC",
-    "title": "Staff  Site Reliability Engineer, Networking w/ active TS/SCI",
-    "location": "Maryland; Virginia; Washington, DC",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Okta INC",
-    "title": "Staff Site Reliability Engineer - Splunk",
-    "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Okta INC",
-    "title": "Staff TDI Site Reliability Engineer, Okta Federal",
-    "location": "Washington, DC",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/8073066?gh_jid=8073066",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Okta INC",
-    "title": "Staff TDI Site Reliability Engineer, Okta Federal",
-    "location": "Washington, DC",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/8073062?gh_jid=8073062",
-    "source": "greenhouse",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Staff Site Reliability Engineer",
-    "location": "La Jolla, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000150686339",
+    "company": "ServiceNow",
+    "title": "Senior Software Engineer, DevOps - Moveworks",
+    "location": "Mountain View, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000150791674",
     "source": "smartrecruiters",
-    "first_seen": "2026-09-21T14:09:47-04:00",
-    "last_seen": "2026-09-21T14:09:47-04:00"
+    "first_seen": "2026-09-22T12:46:29-04:00",
+    "last_seen": "2026-09-22T12:46:29-04:00"
+  },
+  {
+    "company": "Waymo LLC",
+    "title": "Staff Site Reliability Engineer, Waymo Fleet",
+    "location": "San Francisco, CA; Mountain View, CA USA",
+    "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8148444",
+    "source": "greenhouse",
+    "first_seen": "2026-09-22T12:46:29-04:00",
+    "last_seen": "2026-09-22T12:46:29-04:00"
+  },
+  {
+    "company": "Zscaler INC",
+    "title": "Staff Site Reliability Engineer (Production Engineer)- Federal",
+    "location": "Bellevue, Washington, USA; Boston, Massachusetts, USA; Crystal City, Virginia, USA; Dallas, Texas, USA; Denver, Colorado, USA; McLean, Virginia, USA; New York City, New York, USA; San Jose, California, USA; Short Hills, New Jersey, USA",
+    "apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5029669007",
+    "source": "greenhouse",
+    "first_seen": "2026-09-22T12:46:29-04:00",
+    "last_seen": "2026-09-22T12:46:29-04:00"
   }
 ]
