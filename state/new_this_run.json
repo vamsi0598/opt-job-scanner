@@ -1,47 +1,11 @@
 [
   {
     "company": "Accenture",
-    "title": "Site Reliability DevOps Engineer",
+    "title": "Site Reliability Engineer 6476266",
     "location": "",
-    "apply_link": "https://www.accenture.com/us-en/careers/job/Buenos-Aires/Site-Reliability-DevOps-Engineer_14740870",
+    "apply_link": "https://www.accenture.com/us-en/careers/job/Charlotte-1120-S-Tryon-St-Corp/Site-Reliability-Engineer-6476266_14707141",
     "source": "workday",
-    "first_seen": "2026-09-22T12:46:29-04:00",
-    "last_seen": "2026-09-22T12:46:29-04:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Staff Software Engineer, DevOps - Moveworks",
-    "location": "Mountain View, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000150794579",
-    "source": "smartrecruiters",
-    "first_seen": "2026-09-22T12:46:29-04:00",
-    "last_seen": "2026-09-22T12:46:29-04:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Senior Software Engineer, DevOps - Moveworks",
-    "location": "Mountain View, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000150791674",
-    "source": "smartrecruiters",
-    "first_seen": "2026-09-22T12:46:29-04:00",
-    "last_seen": "2026-09-22T12:46:29-04:00"
-  },
-  {
-    "company": "Waymo LLC",
-    "title": "Staff Site Reliability Engineer, Waymo Fleet",
-    "location": "San Francisco, CA; Mountain View, CA USA",
-    "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8148444",
-    "source": "greenhouse",
-    "first_seen": "2026-09-22T12:46:29-04:00",
-    "last_seen": "2026-09-22T12:46:29-04:00"
-  },
-  {
-    "company": "Zscaler INC",
-    "title": "Staff Site Reliability Engineer (Production Engineer)- Federal",
-    "location": "Bellevue, Washington, USA; Boston, Massachusetts, USA; Crystal City, Virginia, USA; Dallas, Texas, USA; Denver, Colorado, USA; McLean, Virginia, USA; New York City, New York, USA; San Jose, California, USA; Short Hills, New Jersey, USA",
-    "apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5029669007",
-    "source": "greenhouse",
-    "first_seen": "2026-09-22T12:46:29-04:00",
-    "last_seen": "2026-09-22T12:46:29-04:00"
+    "first_seen": "2026-09-22T16:05:30-04:00",
+    "last_seen": "2026-09-22T16:05:30-04:00"
   }
 ]
