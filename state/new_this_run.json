@@ -1,20 +1,38 @@
 [
   {
-    "company": "Roku INC",
-    "title": "Senior Machine Learning Engineer, DevOps/SRE",
-    "location": "Austin, Texas",
-    "apply_link": "https://www.weareroku.com/jobs/7991043?gh_jid=7991043",
-    "source": "greenhouse",
-    "first_seen": "2026-09-23T16:08:51-04:00",
-    "last_seen": "2026-09-23T16:08:51-04:00"
+    "company": "Accenture",
+    "title": "DevOps Engineer",
+    "location": "",
+    "apply_link": "https://www.accenture.com/us-en/careers/job/Manila/DevOps-Engineer_ATCP-1425377-S423799",
+    "source": "workday",
+    "first_seen": "2026-09-24T13:00:17-04:00",
+    "last_seen": "2026-09-24T13:00:17-04:00"
   },
   {
-    "company": "Roku INC",
-    "title": "Senior Machine Learning Engineer, DevOps/SRE",
-    "location": "San Jose, California",
-    "apply_link": "https://www.weareroku.com/jobs/7931566?gh_jid=7931566",
-    "source": "greenhouse",
-    "first_seen": "2026-09-23T16:08:51-04:00",
-    "last_seen": "2026-09-23T16:08:51-04:00"
+    "company": "Capital One",
+    "title": "Full-Stack Engineer 5 (Java, Python, SRE, AWS, AI) (Cloud Operations Resilience Engineering)",
+    "location": "3 Locations",
+    "apply_link": "https://www.capitalonecareers.com/job/Plano-TX/Full-Stack-Engineer-5--Java--Python--SRE--AWS--AI---Cloud-Operations-Resilience-Engineering-_R1001881-1",
+    "source": "workday",
+    "first_seen": "2026-09-24T13:00:17-04:00",
+    "last_seen": "2026-09-24T13:00:17-04:00"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Software Development Engineer - SRE",
+    "location": "Nottingham,  Eng",
+    "apply_link": "https://www.capitalonecareers.com/job/Nottingham--Eng/Senior-Software-Development-Engineer---SRE_R240552",
+    "source": "workday",
+    "first_seen": "2026-09-24T13:00:17-04:00",
+    "last_seen": "2026-09-24T13:00:17-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Cloud DevOps and AI Security Engineer",
+    "location": "San Jose, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000151643417",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-24T13:00:17-04:00",
+    "last_seen": "2026-09-24T13:00:17-04:00"
   }
 ]
