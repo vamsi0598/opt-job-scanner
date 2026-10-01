@@ -1,29 +1,29 @@
 [
   {
-    "company": "Workday",
-    "title": "Sr Distributed Systems Engineer (DevOps)",
-    "location": "New Zealand, Auckland",
-    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/New-Zealand-Auckland/Sr-Distributed-Systems-Engineer--DevOps-_JR-0110402",
-    "source": "workday",
-    "first_seen": "2026-09-30T13:56:33-04:00",
-    "last_seen": "2026-09-30T13:56:33-04:00"
+    "company": "ServiceNow",
+    "title": "Senior (DevOps) Machine Learning Engineer",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000152874765",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-01T14:21:54-04:00",
+    "last_seen": "2026-10-01T14:21:54-04:00"
   },
   {
-    "company": "Workday",
-    "title": "Sr Software Development Engineer, SRE (US Federal)",
-    "location": "USA.VA.Reston",
-    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/USAVAReston/Sr-Software-Development-Engineer--SRE--US-Federal-_JR-0110489",
-    "source": "workday",
-    "first_seen": "2026-09-30T13:56:33-04:00",
-    "last_seen": "2026-09-30T13:56:33-04:00"
-  },
-  {
-    "company": "Reddit INC",
-    "title": "Senior Site Reliability Engineer, Ads",
-    "location": "San Francisco, CA",
-    "apply_link": "https://job-boards.greenhouse.io/reddit/jobs/8090680",
+    "company": "Cloudflare INC",
+    "title": "Engineering Manager, Edge SRE",
+    "location": "Hybrid",
+    "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8243207?gh_jid=8243207",
     "source": "greenhouse",
-    "first_seen": "2026-09-30T13:56:33-04:00",
-    "last_seen": "2026-09-30T13:56:33-04:00"
+    "first_seen": "2026-10-01T14:21:54-04:00",
+    "last_seen": "2026-10-01T14:21:54-04:00"
+  },
+  {
+    "company": "Anaplan INC",
+    "title": "DevOps Engineer III",
+    "location": "Gurugram",
+    "apply_link": "https://job-boards.greenhouse.io/anaplan/jobs/8744353002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-01T14:21:54-04:00",
+    "last_seen": "2026-10-01T14:21:54-04:00"
   }
 ]
