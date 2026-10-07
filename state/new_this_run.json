@@ -1,101 +1,29 @@
 [
   {
-    "company": "ServiceNow",
-    "title": "Senior Staff (DevOps) Machine Learning Engineer",
-    "location": "Santa Clara, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000153832679",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Workday",
-    "title": "Associate Site Reliability Engineer (SRE) - Multicloud Platform",
-    "location": "New Zealand, Auckland",
-    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/New-Zealand-Auckland/Associate-Site-Reliability-Engineer--SRE----Multicloud-Platform_JR-0110615",
+    "company": "Capital One",
+    "title": "Site Reliability Engineer 4 (Cloud Operations Resilience Engineering)",
+    "location": "Riverwoods, IL",
+    "apply_link": "https://www.capitalonecareers.com/job/Riverwoods-IL/Site-Reliability-Engineer-4--Cloud-Operations-Resilience-Engineering-_R1003069-1",
     "source": "workday",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
+    "first_seen": "2026-10-07T14:48:48-04:00",
+    "last_seen": "2026-10-07T14:48:48-04:00"
   },
   {
-    "company": "Reddit INC",
-    "title": "Staff Site Reliability Engineer, Ads",
-    "location": "San Francisco, CA",
-    "apply_link": "https://job-boards.greenhouse.io/reddit/jobs/7909463",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Inovalon INC",
-    "title": " Senior Site Reliability Engineer",
-    "location": "REMOTE - US",
-    "apply_link": "https://jobs.ashbyhq.com/inovalon/8c54d596-17c6-4872-97bc-aab0340526bb",
-    "source": "ashby",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
-    "location": "Cambridge, England, gb",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000153757320",
+    "company": "ServiceNow",
+    "title": "Staff Voice AI Engineer \u2013 SRE/DevOps",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000153841988",
     "source": "smartrecruiters",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
+    "first_seen": "2026-10-07T14:48:48-04:00",
+    "last_seen": "2026-10-07T14:48:48-04:00"
   },
   {
-    "company": "Renesas Electronics America INC",
-    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
-    "location": "Wroc\u0142aw, Lower Silesian Voivodeship, pl",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000153756316",
+    "company": "Abbvie INC",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Atlanta, GA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990015968046",
     "source": "smartrecruiters",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
-    "location": "Katowice, Silesian Voivodeship, pl",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000153759249",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
-    "location": "Belgrade, rs",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000153758347",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Appian Corporation",
-    "title": "DevOps Engineer",
-    "location": "McLean, Virginia",
-    "apply_link": "https://job-boards.greenhouse.io/appian/jobs/8259128",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Accela INC",
-    "title": "Site Reliability Engineer",
-    "location": "Remote Based - US",
-    "apply_link": "https://job-boards.greenhouse.io/accela/jobs/8234070",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
-  },
-  {
-    "company": "Beyond Finance LLC",
-    "title": "Senior DevOps Engineer",
-    "location": "Chicago, IL (Hybrid)",
-    "apply_link": "https://job-boards.greenhouse.io/beyondfinance/jobs/8022099",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06T14:16:10-04:00",
-    "last_seen": "2026-10-06T14:16:10-04:00"
+    "first_seen": "2026-10-07T14:48:48-04:00",
+    "last_seen": "2026-10-07T14:48:48-04:00"
   }
 ]
