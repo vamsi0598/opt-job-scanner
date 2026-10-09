@@ -1,29 +1,47 @@
 [
   {
-    "company": "Zscaler INC",
-    "title": "Sr. Staff Site Reliability Engineer-Federal, Security Clearance",
-    "location": "Crystal City, Virginia, USA",
-    "apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5252248007",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08T14:46:36-04:00",
-    "last_seen": "2026-10-08T14:46:36-04:00"
+    "company": "Renesas Electronics America INC",
+    "title": "Site Reliability Engineer (SRE)",
+    "location": "Cambridge, England, gb",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154737738",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-09T14:17:13-04:00",
+    "last_seen": "2026-10-09T14:17:13-04:00"
   },
   {
-    "company": "Cloudflare INC",
-    "title": "Senior Forward Deployed Engineer (DevOps)",
-    "location": "Hybrid",
-    "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08T14:46:36-04:00",
-    "last_seen": "2026-10-08T14:46:36-04:00"
+    "company": "Renesas Electronics America INC",
+    "title": "Site Reliability Engineer (SRE)",
+    "location": "Katowice, Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154736205",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-09T14:17:13-04:00",
+    "last_seen": "2026-10-09T14:17:13-04:00"
   },
   {
-    "company": "Blink Health Group LLC",
-    "title": "Senior Site Reliability Engineer II",
-    "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
-    "apply_link": "https://job-boards.greenhouse.io/blinkhealth/jobs/8876894002",
+    "company": "Renesas Electronics America INC",
+    "title": "Site Reliability Engineer (SRE)",
+    "location": "Wroc\u0142aw, Lower Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154732017",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-09T14:17:13-04:00",
+    "last_seen": "2026-10-09T14:17:13-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Site Reliability Engineer (SRE)",
+    "location": "Belgrade, rs",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154737459",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-09T14:17:13-04:00",
+    "last_seen": "2026-10-09T14:17:13-04:00"
+  },
+  {
+    "company": "Coalition INC",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Any location, United States",
+    "apply_link": "https://www.coalitioninc.com/job-posting?gh_jid=4742192005",
     "source": "greenhouse",
-    "first_seen": "2026-10-08T14:46:36-04:00",
-    "last_seen": "2026-10-08T14:46:36-04:00"
+    "first_seen": "2026-10-09T14:17:13-04:00",
+    "last_seen": "2026-10-09T14:17:13-04:00"
   }
 ]
