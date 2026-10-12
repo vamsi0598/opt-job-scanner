@@ -1,47 +1,56 @@
 [
   {
-    "company": "Renesas Electronics America INC",
-    "title": "Site Reliability Engineer (SRE)",
-    "location": "Cambridge, England, gb",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154737738",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-09T14:17:13-04:00",
-    "last_seen": "2026-10-09T14:17:13-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Site Reliability Engineer (SRE)",
-    "location": "Katowice, Silesian Voivodeship, pl",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154736205",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-09T14:17:13-04:00",
-    "last_seen": "2026-10-09T14:17:13-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Site Reliability Engineer (SRE)",
-    "location": "Wroc\u0142aw, Lower Silesian Voivodeship, pl",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154732017",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-09T14:17:13-04:00",
-    "last_seen": "2026-10-09T14:17:13-04:00"
-  },
-  {
-    "company": "Renesas Electronics America INC",
-    "title": "Site Reliability Engineer (SRE)",
-    "location": "Belgrade, rs",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000154737459",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-09T14:17:13-04:00",
-    "last_seen": "2026-10-09T14:17:13-04:00"
-  },
-  {
-    "company": "Coalition INC",
+    "company": "Pure Storage INC",
     "title": "Senior Site Reliability Engineer",
-    "location": "Any location, United States",
-    "apply_link": "https://www.coalitioninc.com/job-posting?gh_jid=4742192005",
+    "location": "Prague, Czech Republic",
+    "apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/8258412",
     "source": "greenhouse",
-    "first_seen": "2026-10-09T14:17:13-04:00",
-    "last_seen": "2026-10-09T14:17:13-04:00"
+    "first_seen": "2026-10-12T17:12:15-04:00",
+    "last_seen": "2026-10-12T17:12:15-04:00"
+  },
+  {
+    "company": "Okta INC",
+    "title": "Senior Site Reliability Engineer  - EPG",
+    "location": "Bellevue, Washington; San Francisco, California",
+    "apply_link": "https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917",
+    "source": "greenhouse",
+    "first_seen": "2026-10-12T17:12:15-04:00",
+    "last_seen": "2026-10-12T17:12:15-04:00"
+  },
+  {
+    "company": "Mongodb INC",
+    "title": "Senior Site Reliability Engineer, Infrastructure Security",
+    "location": "Austin; New York City",
+    "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7668289",
+    "source": "greenhouse",
+    "first_seen": "2026-10-12T17:12:15-04:00",
+    "last_seen": "2026-10-12T17:12:15-04:00"
+  },
+  {
+    "company": "Mongodb INC",
+    "title": "Senior Software Engineer (SRE), Infrastructure Security",
+    "location": "Austin; New York City",
+    "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+    "source": "greenhouse",
+    "first_seen": "2026-10-12T17:12:15-04:00",
+    "last_seen": "2026-10-12T17:12:15-04:00"
+  },
+  {
+    "company": "Mongodb INC",
+    "title": "Staff Site Reliability Engineer, Infrastructure Security",
+    "location": "New York",
+    "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=6982487",
+    "source": "greenhouse",
+    "first_seen": "2026-10-12T17:12:15-04:00",
+    "last_seen": "2026-10-12T17:12:15-04:00"
+  },
+  {
+    "company": "Onetrust LLC",
+    "title": "Senior Staff DevOps Engineer \u2014 Data Discovery & AI Governance",
+    "location": "Atlanta, Georgia",
+    "apply_link": "https://job-boards.greenhouse.io/onetrust/jobs/8083605",
+    "source": "greenhouse",
+    "first_seen": "2026-10-12T17:12:15-04:00",
+    "last_seen": "2026-10-12T17:12:15-04:00"
   }
 ]
