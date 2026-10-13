@@ -1,56 +1,56 @@
 [
   {
-    "company": "Pure Storage INC",
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4, DevOps",
+    "location": "Richmond, VA",
+    "apply_link": "https://www.capitalonecareers.com/job/Richmond-VA/Full-stack-Engineer-4--DevOps_R1001690",
+    "source": "workday",
+    "first_seen": "2026-10-13T15:11:27-04:00",
+    "last_seen": "2026-10-13T15:11:27-04:00"
+  },
+  {
+    "company": "Nuro INC",
+    "title": "Senior Senior Technical Program Manager, Driverless Readiness & AI Platform Reliability",
+    "location": "Mountain View, California (HQ)",
+    "apply_link": "https://nuro.ai/careersitem?gh_jid=8279156",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13T15:11:27-04:00",
+    "last_seen": "2026-10-13T15:11:27-04:00"
+  },
+  {
+    "company": "Natera INC",
+    "title": "Senior Manager of Software Engineering & DevOps (DSPE)",
+    "location": "San Carlos, CA",
+    "apply_link": "https://job-boards.greenhouse.io/natera/jobs/6148527004",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13T15:11:27-04:00",
+    "last_seen": "2026-10-13T15:11:27-04:00"
+  },
+  {
+    "company": "Natera INC",
+    "title": "Senior Manager of Software Engineering & DevOps (DSPE)",
+    "location": "US Remote",
+    "apply_link": "https://job-boards.greenhouse.io/natera/jobs/6137673004",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13T15:11:27-04:00",
+    "last_seen": "2026-10-13T15:11:27-04:00"
+  },
+  {
+    "company": "Hinge Health INC",
     "title": "Senior Site Reliability Engineer",
-    "location": "Prague, Czech Republic",
-    "apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/8258412",
-    "source": "greenhouse",
-    "first_seen": "2026-10-12T17:12:15-04:00",
-    "last_seen": "2026-10-12T17:12:15-04:00"
+    "location": "San Francisco-HQ",
+    "apply_link": "https://jobs.ashbyhq.com/hinge-health/9f06df99-a5c6-47bf-92c1-e92c725e6a5a",
+    "source": "ashby",
+    "first_seen": "2026-10-13T15:11:27-04:00",
+    "last_seen": "2026-10-13T15:11:27-04:00"
   },
   {
-    "company": "Okta INC",
-    "title": "Senior Site Reliability Engineer  - EPG",
-    "location": "Bellevue, Washington; San Francisco, California",
-    "apply_link": "https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917",
+    "company": "Planet Labs Pbc",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Ljubljana, Slovenia",
+    "apply_link": "https://job-boards.greenhouse.io/planetlabs/jobs/8185816",
     "source": "greenhouse",
-    "first_seen": "2026-10-12T17:12:15-04:00",
-    "last_seen": "2026-10-12T17:12:15-04:00"
-  },
-  {
-    "company": "Mongodb INC",
-    "title": "Senior Site Reliability Engineer, Infrastructure Security",
-    "location": "Austin; New York City",
-    "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7668289",
-    "source": "greenhouse",
-    "first_seen": "2026-10-12T17:12:15-04:00",
-    "last_seen": "2026-10-12T17:12:15-04:00"
-  },
-  {
-    "company": "Mongodb INC",
-    "title": "Senior Software Engineer (SRE), Infrastructure Security",
-    "location": "Austin; New York City",
-    "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
-    "source": "greenhouse",
-    "first_seen": "2026-10-12T17:12:15-04:00",
-    "last_seen": "2026-10-12T17:12:15-04:00"
-  },
-  {
-    "company": "Mongodb INC",
-    "title": "Staff Site Reliability Engineer, Infrastructure Security",
-    "location": "New York",
-    "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=6982487",
-    "source": "greenhouse",
-    "first_seen": "2026-10-12T17:12:15-04:00",
-    "last_seen": "2026-10-12T17:12:15-04:00"
-  },
-  {
-    "company": "Onetrust LLC",
-    "title": "Senior Staff DevOps Engineer \u2014 Data Discovery & AI Governance",
-    "location": "Atlanta, Georgia",
-    "apply_link": "https://job-boards.greenhouse.io/onetrust/jobs/8083605",
-    "source": "greenhouse",
-    "first_seen": "2026-10-12T17:12:15-04:00",
-    "last_seen": "2026-10-12T17:12:15-04:00"
+    "first_seen": "2026-10-13T15:11:27-04:00",
+    "last_seen": "2026-10-13T15:11:27-04:00"
   }
 ]
