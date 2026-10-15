@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "company": "ServiceNow",
+    "title": "Senior Staff AI-Native DevOps Engineer",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000155836759",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-15T16:15:04-04:00",
+    "last_seen": "2026-10-15T16:15:04-04:00"
+  },
+  {
+    "company": "ServiceNow",
+    "title": "Staff AI-Native DevOps Engineer",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000155835909",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-15T16:15:04-04:00",
+    "last_seen": "2026-10-15T16:15:04-04:00"
+  },
+  {
+    "company": "Zscaler INC",
+    "title": "Sr. Site Reliability Engineer- Federal",
+    "location": "Santa Clara, California, USA",
+    "apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5256468007",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15T16:15:04-04:00",
+    "last_seen": "2026-10-15T16:15:04-04:00"
+  },
+  {
+    "company": "Roku INC",
+    "title": "Senior AI DevOps Engineer",
+    "location": "San Jose, California",
+    "apply_link": "https://www.weareroku.com/jobs/8286654?gh_jid=8286654",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15T16:15:04-04:00",
+    "last_seen": "2026-10-15T16:15:04-04:00"
+  },
+  {
+    "company": "Discord INC",
+    "title": "QA/DevOps Engineer",
+    "location": "San Francisco Bay Area",
+    "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15T16:15:04-04:00",
+    "last_seen": "2026-10-15T16:15:04-04:00"
+  }
+]
