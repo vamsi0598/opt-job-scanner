@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
+    "location": "Belgrade, rs",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156316322",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-19T14:39:33-04:00",
+    "last_seen": "2026-10-19T14:39:33-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Staff DevOps Engineer",
+    "location": "Cambridge, gb",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156309829",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-19T14:39:33-04:00",
+    "last_seen": "2026-10-19T14:39:33-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Staff DevOps Engineer",
+    "location": "Katowice, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156308889",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-19T14:39:33-04:00",
+    "last_seen": "2026-10-19T14:39:33-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Staff DevOps Engineer",
+    "location": "Wroc\u0142aw, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156308181",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-19T14:39:33-04:00",
+    "last_seen": "2026-10-19T14:39:33-04:00"
+  }
+]
