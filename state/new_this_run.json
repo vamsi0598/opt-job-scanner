@@ -1,20 +1,29 @@
 [
   {
-    "company": "Zscaler INC",
-    "title": "Sr. Site Reliability Engineer",
-    "location": "Crystal City, Virginia, USA",
-    "apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5200385007",
-    "source": "greenhouse",
-    "first_seen": "2026-10-20T16:25:17-04:00",
-    "last_seen": "2026-10-20T16:25:17-04:00"
+    "company": "Renesas Electronics America INC",
+    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
+    "location": "Katowice, Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156843260",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-21T13:03:06-04:00",
+    "last_seen": "2026-10-21T13:03:06-04:00"
   },
   {
-    "company": "Zscaler INC",
-    "title": "Staff Site Reliability Engineer",
-    "location": "Crystal City, Virginia, USA",
-    "apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5200278007",
-    "source": "greenhouse",
-    "first_seen": "2026-10-20T16:25:17-04:00",
-    "last_seen": "2026-10-20T16:25:17-04:00"
+    "company": "Renesas Electronics America INC",
+    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
+    "location": "Wroc\u0142aw, Lower Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156842949",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-21T13:03:06-04:00",
+    "last_seen": "2026-10-21T13:03:06-04:00"
+  },
+  {
+    "company": "Renesas Electronics America INC",
+    "title": "Cloud DevOps Engineer (AWS, Terraform, K8S, Automation)",
+    "location": "Belgrade, rs",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000156842719",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-21T13:03:06-04:00",
+    "last_seen": "2026-10-21T13:03:06-04:00"
   }
 ]
