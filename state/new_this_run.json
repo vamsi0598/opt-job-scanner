@@ -1,11 +1,20 @@
 [
   {
-    "company": "ServiceNow",
-    "title": "Senior Site Reliability Engineer - Federal",
-    "location": "Santa Clara, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000157201202",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-22T16:44:20-04:00",
-    "last_seen": "2026-10-22T16:44:20-04:00"
+    "company": "Pure Storage INC",
+    "title": "DevOps Engineer",
+    "location": "Prague, Czech Republic",
+    "apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/8179659",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23T12:54:37-04:00",
+    "last_seen": "2026-10-23T12:54:37-04:00"
+  },
+  {
+    "company": "Smartsheet INC",
+    "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+    "location": " -REMOTE, BULGARIA-",
+    "apply_link": "https://job-boards.greenhouse.io/smartsheet/jobs/8317967",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23T12:54:37-04:00",
+    "last_seen": "2026-10-23T12:54:37-04:00"
   }
 ]
