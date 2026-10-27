@@ -1,20 +1,38 @@
 [
   {
-    "company": "Intel",
-    "title": "DevOps Engineering Student",
-    "location": "2 Locations",
-    "apply_link": "https://jobs.intel.com/job/Israel-Petah-Tikva/DevOps-Engineering-Student_JR0288513",
-    "source": "workday",
-    "first_seen": "2026-10-26T14:37:15-04:00",
-    "last_seen": "2026-10-26T14:37:15-04:00"
+    "company": "Arista Networks INC",
+    "title": "Software Developer(SRE) - CloudVision as a Service (CVaaS)",
+    "location": "Bengaluru, KA, in",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/aristanetworks/postings/744000158051849",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-27T13:52:38-04:00",
+    "last_seen": "2026-10-27T13:52:38-04:00"
   },
   {
-    "company": "Workday",
-    "title": "Sr DevOps Engineer",
-    "location": "USA, CA, Pleasanton",
-    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/USA-CA-Pleasanton/Sr-DevOps-Engineer_JR-0110883",
-    "source": "workday",
-    "first_seen": "2026-10-26T14:37:15-04:00",
-    "last_seen": "2026-10-26T14:37:15-04:00"
+    "company": "Verisign INC",
+    "title": "Site Reliability Engineer - AI Platform",
+    "location": "Reston,Virginia,United States",
+    "apply_link": "https://job-boards.greenhouse.io/verisign/jobs/8010830003",
+    "source": "greenhouse",
+    "first_seen": "2026-10-27T13:52:38-04:00",
+    "last_seen": "2026-10-27T13:52:38-04:00"
+  },
+  {
+    "company": "Digicert INC",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Lehi, Utah",
+    "apply_link": "https://www.digicert.com/careers/?gh_jid=8585312002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-27T13:52:38-04:00",
+    "last_seen": "2026-10-27T13:52:38-04:00"
+  },
+  {
+    "company": "Nextiva INC",
+    "title": "Staff Site Reliability Engineer",
+    "location": "Bengaluru, Onsite",
+    "apply_link": "https://www.nextiva.com/company/careers-listing?gh_jid=8560357002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-27T13:52:38-04:00",
+    "last_seen": "2026-10-27T13:52:38-04:00"
   }
 ]
