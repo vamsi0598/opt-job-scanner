@@ -1,11 +1,29 @@
 [
   {
-    "company": "Renesas Electronics America INC",
-    "title": "Cloud DevOps and AI Security Engineer",
-    "location": "San Jose, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000158559864",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-29T14:22:17-04:00",
-    "last_seen": "2026-10-29T14:22:17-04:00"
+    "company": "Capital One",
+    "title": "Site Reliability Engineer 5",
+    "location": "McLean, VA",
+    "apply_link": "https://www.capitalonecareers.com/job/McLean-VA/Site-Reliability-Engineer-5_R1004883-1",
+    "source": "workday",
+    "first_seen": "2026-10-30T13:56:37-04:00",
+    "last_seen": "2026-10-30T13:56:37-04:00"
+  },
+  {
+    "company": "Workday",
+    "title": "Principal DataOps Engineer (DevOps for Data)",
+    "location": "2 Locations",
+    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/USA-CA-Pleasanton/Principal-DataOps-Engineer--DevOps-for-Data-_JR-0111033",
+    "source": "workday",
+    "first_seen": "2026-10-30T13:56:37-04:00",
+    "last_seen": "2026-10-30T13:56:37-04:00"
+  },
+  {
+    "company": "Digicert INC",
+    "title": "DevOps Engineer",
+    "location": "US VA Herndon",
+    "apply_link": "https://www.digicert.com/careers/?gh_jid=8815464002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-30T13:56:37-04:00",
+    "last_seen": "2026-10-30T13:56:37-04:00"
   }
 ]
