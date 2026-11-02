@@ -1,29 +1,29 @@
 [
   {
-    "company": "Capital One",
-    "title": "Site Reliability Engineer 5",
-    "location": "McLean, VA",
-    "apply_link": "https://www.capitalonecareers.com/job/McLean-VA/Site-Reliability-Engineer-5_R1004883-1",
-    "source": "workday",
-    "first_seen": "2026-10-30T13:56:37-04:00",
-    "last_seen": "2026-10-30T13:56:37-04:00"
+    "company": "ServiceNow",
+    "title": "Staff AI-Native DevOps Engineer",
+    "location": "San Diego, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159237649",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-02T16:39:17-05:00",
+    "last_seen": "2026-11-02T16:39:17-05:00"
   },
   {
-    "company": "Workday",
-    "title": "Principal DataOps Engineer (DevOps for Data)",
-    "location": "2 Locations",
-    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/USA-CA-Pleasanton/Principal-DataOps-Engineer--DevOps-for-Data-_JR-0111033",
-    "source": "workday",
-    "first_seen": "2026-10-30T13:56:37-04:00",
-    "last_seen": "2026-10-30T13:56:37-04:00"
+    "company": "ServiceNow",
+    "title": "Senior Staff AI-Native DevOps Engineer",
+    "location": "San Diego, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159237260",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-02T16:39:17-05:00",
+    "last_seen": "2026-11-02T16:39:17-05:00"
   },
   {
-    "company": "Digicert INC",
-    "title": "DevOps Engineer",
-    "location": "US VA Herndon",
-    "apply_link": "https://www.digicert.com/careers/?gh_jid=8815464002",
+    "company": "Worldquant LLC",
+    "title": "Site Reliability Engineer",
+    "location": "Montevideo",
+    "apply_link": "https://job-boards.greenhouse.io/worldquant/jobs/4710685006",
     "source": "greenhouse",
-    "first_seen": "2026-10-30T13:56:37-04:00",
-    "last_seen": "2026-10-30T13:56:37-04:00"
+    "first_seen": "2026-11-02T16:39:17-05:00",
+    "last_seen": "2026-11-02T16:39:17-05:00"
   }
 ]
