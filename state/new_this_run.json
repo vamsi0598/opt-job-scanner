@@ -1,29 +1,20 @@
 [
   {
-    "company": "ServiceNow",
-    "title": "Staff AI-Native DevOps Engineer",
-    "location": "San Diego, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159237649",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-02T16:39:17-05:00",
-    "last_seen": "2026-11-02T16:39:17-05:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Senior Staff AI-Native DevOps Engineer",
-    "location": "San Diego, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159237260",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-02T16:39:17-05:00",
-    "last_seen": "2026-11-02T16:39:17-05:00"
-  },
-  {
-    "company": "Worldquant LLC",
+    "company": "Planet Labs Pbc",
     "title": "Site Reliability Engineer",
-    "location": "Montevideo",
-    "apply_link": "https://job-boards.greenhouse.io/worldquant/jobs/4710685006",
+    "location": "San Francisco, CA",
+    "apply_link": "https://job-boards.greenhouse.io/planetlabs/jobs/8302899",
     "source": "greenhouse",
-    "first_seen": "2026-11-02T16:39:17-05:00",
-    "last_seen": "2026-11-02T16:39:17-05:00"
+    "first_seen": "2026-11-03T14:24:12-05:00",
+    "last_seen": "2026-11-03T14:24:12-05:00"
+  },
+  {
+    "company": "Sumo Logic INC",
+    "title": "Staff Site Reliability Engineer, FinOps",
+    "location": "San Jos\u00e9, Costa Rica",
+    "apply_link": "https://job-boards.greenhouse.io/sumologic/jobs/8349107",
+    "source": "greenhouse",
+    "first_seen": "2026-11-03T14:24:12-05:00",
+    "last_seen": "2026-11-03T14:24:12-05:00"
   }
 ]
