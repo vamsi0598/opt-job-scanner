@@ -1,38 +1,20 @@
 [
   {
-    "company": "ServiceNow",
-    "title": "Senior DevOps Engineer",
-    "location": "San Diego, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159712889",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-04T14:39:31-05:00",
-    "last_seen": "2026-11-04T14:39:31-05:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Engineering Manager, DevOps - Moveworks",
-    "location": "Mountain View, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159514894",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-04T14:39:31-05:00",
-    "last_seen": "2026-11-04T14:39:31-05:00"
-  },
-  {
-    "company": "Workday",
-    "title": "Software Development Engineer, SRE (US Federal)",
-    "location": "USA.VA.Reston",
-    "apply_link": "https://www.workday.com/en-us/company/careers.html/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178",
+    "company": "Accenture",
+    "title": "Site Reliability Engineer",
+    "location": "",
+    "apply_link": "https://www.accenture.com/us-en/careers/job/Oslo/Site-Reliability-Engineer_R00368020-1",
     "source": "workday",
-    "first_seen": "2026-11-04T14:39:31-05:00",
-    "last_seen": "2026-11-04T14:39:31-05:00"
+    "first_seen": "2026-11-05T14:49:25-05:00",
+    "last_seen": "2026-11-05T14:49:25-05:00"
   },
   {
-    "company": "Tripactions INC",
-    "title": "Site Reliability Engineer II ",
-    "location": "Palo Alto, CA or San Francisco, CA",
-    "apply_link": "https://navan.com/careers/openings?gh_jid=8350952",
-    "source": "greenhouse",
-    "first_seen": "2026-11-04T14:39:31-05:00",
-    "last_seen": "2026-11-04T14:39:31-05:00"
+    "company": "ServiceNow",
+    "title": "Senior DevOps Engineer (Kubernetes) - Federal",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000159871179",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-05T14:49:25-05:00",
+    "last_seen": "2026-11-05T14:49:25-05:00"
   }
 ]
