@@ -1,38 +1,11 @@
 [
   {
-    "company": "ServiceNow",
-    "title": "Staff Site Reliability Engineer - Federal",
-    "location": "Santa Clara, CALIFORNIA, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000160989639",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-11T14:29:25-05:00",
-    "last_seen": "2026-11-11T14:29:25-05:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Senior Staff DevOps Engineer - Flow",
-    "location": "Waltham, Massachusetts, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000160985589",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-11T14:29:25-05:00",
-    "last_seen": "2026-11-11T14:29:25-05:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Senior Staff DevOps Engineer - Flow",
-    "location": "San Diego, California, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000160985419",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-11T14:29:25-05:00",
-    "last_seen": "2026-11-11T14:29:25-05:00"
-  },
-  {
-    "company": "ServiceNow",
-    "title": "Senior Staff DevOps Engineer - Flow",
-    "location": "Austin, Texas, us",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000160984939",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-11T14:29:25-05:00",
-    "last_seen": "2026-11-11T14:29:25-05:00"
+    "company": "Pure Storage INC",
+    "title": "Site Reliability Engineer",
+    "location": "Prague, Czech Republic",
+    "apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/8383601",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12T14:48:36-05:00",
+    "last_seen": "2026-11-12T14:48:36-05:00"
   }
 ]
