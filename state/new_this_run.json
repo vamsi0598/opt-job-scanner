@@ -1,20 +1,29 @@
 [
   {
-    "company": "Samsara INC",
-    "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
-    "location": "Remote - US",
-    "apply_link": "https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911",
+    "company": "Okta INC",
+    "title": "Staff Site Reliability Engineer",
+    "location": "Bellevue, WA, United States",
+    "apply_link": "https://www.okta.com/company/careers/opportunity/8385706?gh_jid=8385706",
     "source": "greenhouse",
-    "first_seen": "2026-11-16T16:54:39-05:00",
-    "last_seen": "2026-11-16T16:54:39-05:00"
+    "first_seen": "2026-11-17T15:44:58-05:00",
+    "last_seen": "2026-11-17T15:44:58-05:00"
   },
   {
-    "company": "Netskope INC",
-    "title": "Staff Data SRE",
-    "location": "Santa Clara, California, United States",
-    "apply_link": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8394120",
+    "company": "Visual Concepts Entertainment",
+    "title": "Senior Engineer, Dev Ops - WWE 2K (HYBRID)",
+    "location": "Budapest, Hungary",
+    "apply_link": "https://job-boards.greenhouse.io/visualconcepts/jobs/8206164003",
     "source": "greenhouse",
-    "first_seen": "2026-11-16T16:54:39-05:00",
-    "last_seen": "2026-11-16T16:54:39-05:00"
+    "first_seen": "2026-11-17T15:44:58-05:00",
+    "last_seen": "2026-11-17T15:44:58-05:00"
+  },
+  {
+    "company": "Visual Concepts Entertainment",
+    "title": "Senior Engineer, Dev Ops - WWE 2K (REMOTE)",
+    "location": "California, United States",
+    "apply_link": "https://job-boards.greenhouse.io/visualconcepts/jobs/8205804003",
+    "source": "greenhouse",
+    "first_seen": "2026-11-17T15:44:58-05:00",
+    "last_seen": "2026-11-17T15:44:58-05:00"
   }
 ]
