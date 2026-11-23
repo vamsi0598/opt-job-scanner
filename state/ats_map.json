@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 15:13:46 UTC",
+  "generated_at": "2026-11-23 17:45:08 UTC",
   "matches": [
     {
       "company": "Accenture",
@@ -16,6 +16,13 @@
       "careers_url": "https://jobs.intel.com"
     },
     {
+      "company": "Citibank Na",
+      "platform": "smartrecruiters",
+      "slug": "citibankna",
+      "api": "https://api.smartrecruiters.com/v1/companies/citibankna/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Citibank%20Na%20careers"
+    },
+    {
       "company": "Capital One",
       "platform": "workday",
       "slug": "capitalone/Capital_One",
@@ -30,13 +37,6 @@
       "careers_url": "https://careers.bankofamerica.com"
     },
     {
-      "company": "Elevance Health",
-      "platform": "workday",
-      "slug": "elevancehealth/ANT",
-      "api": "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs",
-      "careers_url": "https://careers.elevancehealth.com"
-    },
-    {
       "company": "Atos Syntel INC",
       "platform": "smartrecruiters",
       "slug": "atossyntel",
@@ -44,11 +44,25 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Atos%20Syntel%20careers"
     },
     {
-      "company": "Citibank Na",
+      "company": "Elevance Health",
+      "platform": "workday",
+      "slug": "elevancehealth/ANT",
+      "api": "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs",
+      "careers_url": "https://careers.elevancehealth.com"
+    },
+    {
+      "company": "Synechron INC",
       "platform": "smartrecruiters",
-      "slug": "citibankna",
-      "api": "https://api.smartrecruiters.com/v1/companies/citibankna/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Citibank%20Na%20careers"
+      "slug": "synechron",
+      "api": "https://api.smartrecruiters.com/v1/companies/synechron/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Synechron%20careers"
+    },
+    {
+      "company": "LinkedIn",
+      "platform": "lever",
+      "slug": "linkedin",
+      "api": "https://api.lever.co/v0/postings/linkedin?mode=json",
+      "careers_url": "https://careers.linkedin.com"
     },
     {
       "company": "Uber",
@@ -72,11 +86,11 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Oath%20careers"
     },
     {
-      "company": "LinkedIn",
-      "platform": "lever",
-      "slug": "linkedin",
-      "api": "https://api.lever.co/v0/postings/linkedin?mode=json",
-      "careers_url": "https://careers.linkedin.com"
+      "company": "ServiceNow",
+      "platform": "smartrecruiters",
+      "slug": "servicenow",
+      "api": "https://api.smartrecruiters.com/v1/companies/servicenow/postings",
+      "careers_url": "https://careers.servicenow.com"
     },
     {
       "company": "KPMG",
@@ -86,20 +100,6 @@
       "careers_url": "https://www.kpmguscareers.com"
     },
     {
-      "company": "Synechron INC",
-      "platform": "smartrecruiters",
-      "slug": "synechron",
-      "api": "https://api.smartrecruiters.com/v1/companies/synechron/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Synechron%20careers"
-    },
-    {
-      "company": "Mastech Digital Technologies INC A Mastech Digital INC Company",
-      "platform": "smartrecruiters",
-      "slug": "mastechdigital",
-      "api": "https://api.smartrecruiters.com/v1/companies/mastechdigital/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Mastech%20Digital%20Technologies%20A%20Mastech%20Digital%20careers"
-    },
-    {
       "company": "Amgen",
       "platform": "workday",
       "slug": "amgen/en-US",
@@ -107,11 +107,11 @@
       "careers_url": "https://careers.amgen.com"
     },
     {
-      "company": "ServiceNow",
+      "company": "Mastech Digital Technologies INC A Mastech Digital INC Company",
       "platform": "smartrecruiters",
-      "slug": "servicenow",
-      "api": "https://api.smartrecruiters.com/v1/companies/servicenow/postings",
-      "careers_url": "https://careers.servicenow.com"
+      "slug": "mastechdigital",
+      "api": "https://api.smartrecruiters.com/v1/companies/mastechdigital/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Mastech%20Digital%20Technologies%20A%20Mastech%20Digital%20careers"
     },
     {
       "company": "Block INC",
@@ -170,13 +170,6 @@
       "careers_url": "https://www.databricks.com/company/careers"
     },
     {
-      "company": "Wayfair LLC",
-      "platform": "smartrecruiters",
-      "slug": "wayfair",
-      "api": "https://api.smartrecruiters.com/v1/companies/wayfair/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Wayfair%20careers"
-    },
-    {
       "company": "Zoox INC",
       "platform": "lever",
       "slug": "zoox",
@@ -184,18 +177,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Zoox%20careers"
     },
     {
+      "company": "Wayfair LLC",
+      "platform": "smartrecruiters",
+      "slug": "wayfair",
+      "api": "https://api.smartrecruiters.com/v1/companies/wayfair/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Wayfair%20careers"
+    },
+    {
       "company": "Iris Software INC",
       "platform": "smartrecruiters",
       "slug": "irissoftware",
       "api": "https://api.smartrecruiters.com/v1/companies/irissoftware/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Iris%20Software%20careers"
-    },
-    {
-      "company": "Harvard University",
-      "platform": "smartrecruiters",
-      "slug": "harvarduniversity",
-      "api": "https://api.smartrecruiters.com/v1/companies/harvarduniversity/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Harvard%20University%20careers"
     },
     {
       "company": "Airbnb INC",
@@ -210,6 +203,13 @@
       "slug": "docusign",
       "api": "https://api.lever.co/v0/postings/docusign?mode=json",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Docusign%20careers"
+    },
+    {
+      "company": "Harvard University",
+      "platform": "smartrecruiters",
+      "slug": "harvarduniversity",
+      "api": "https://api.smartrecruiters.com/v1/companies/harvarduniversity/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Harvard%20University%20careers"
     },
     {
       "company": "Pure Storage INC",
@@ -233,18 +233,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Twilio%20careers"
     },
     {
-      "company": "Uber Freight Us LLC",
-      "platform": "greenhouse",
-      "slug": "uberfreight",
-      "api": "https://boards-api.greenhouse.io/v1/boards/uberfreight/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Uber%20Freight%20careers"
-    },
-    {
       "company": "Northwestern Mutual Life Insurance Company",
       "platform": "smartrecruiters",
       "slug": "northwesternmutual",
       "api": "https://api.smartrecruiters.com/v1/companies/northwesternmutual/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Northwestern%20Mutual%20Life%20Insurance%20careers"
+    },
+    {
+      "company": "Uber Freight Us LLC",
+      "platform": "greenhouse",
+      "slug": "uberfreight",
+      "api": "https://boards-api.greenhouse.io/v1/boards/uberfreight/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Uber%20Freight%20careers"
     },
     {
       "company": "Western Digital Technologies INC",
@@ -275,11 +275,11 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Samsung%20Semiconductor%20careers"
     },
     {
-      "company": "Bill Com",
-      "platform": "greenhouse",
-      "slug": "billcom",
-      "api": "https://boards-api.greenhouse.io/v1/boards/billcom/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Bill%20Com%20careers"
+      "company": "Robert Bosch LLC",
+      "platform": "smartrecruiters",
+      "slug": "robertbosch",
+      "api": "https://api.smartrecruiters.com/v1/companies/robertbosch/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Robert%20Bosch%20careers"
     },
     {
       "company": "Health Care Service Corporation",
@@ -289,18 +289,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Health%20Care%20Service%20careers"
     },
     {
+      "company": "Bill Com",
+      "platform": "greenhouse",
+      "slug": "billcom",
+      "api": "https://boards-api.greenhouse.io/v1/boards/billcom/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Bill%20Com%20careers"
+    },
+    {
       "company": "Social Finance INC",
       "platform": "greenhouse",
       "slug": "socialfinance",
       "api": "https://boards-api.greenhouse.io/v1/boards/socialfinance/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Social%20Finance%20careers"
-    },
-    {
-      "company": "Robert Bosch LLC",
-      "platform": "smartrecruiters",
-      "slug": "robertbosch",
-      "api": "https://api.smartrecruiters.com/v1/companies/robertbosch/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Robert%20Bosch%20careers"
     },
     {
       "company": "Roblox Corporation",
@@ -464,6 +464,13 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Roku%20careers"
     },
     {
+      "company": "Tanisha Systems INC",
+      "platform": "smartrecruiters",
+      "slug": "tanishasystems",
+      "api": "https://api.smartrecruiters.com/v1/companies/tanishasystems/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Tanisha%20Systems%20careers"
+    },
+    {
       "company": "Valuelabs INC",
       "platform": "smartrecruiters",
       "slug": "valuelabs",
@@ -478,11 +485,11 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Boston%20Medical%20Center%20careers"
     },
     {
-      "company": "Tanisha Systems INC",
+      "company": "Galaxe Solutions INC",
       "platform": "smartrecruiters",
-      "slug": "tanishasystems",
-      "api": "https://api.smartrecruiters.com/v1/companies/tanishasystems/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Tanisha%20Systems%20careers"
+      "slug": "galaxesolutions",
+      "api": "https://api.smartrecruiters.com/v1/companies/galaxesolutions/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Galaxe%20careers"
     },
     {
       "company": "Galaxy I Technologies INC",
@@ -492,18 +499,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Galaxy%20I%20Technologies%20careers"
     },
     {
-      "company": "Galaxe Solutions INC",
-      "platform": "smartrecruiters",
-      "slug": "galaxesolutions",
-      "api": "https://api.smartrecruiters.com/v1/companies/galaxesolutions/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Galaxe%20careers"
-    },
-    {
       "company": "Qualtrics LLC",
       "platform": "greenhouse",
       "slug": "qualtrics",
       "api": "https://boards-api.greenhouse.io/v1/boards/qualtrics/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Qualtrics%20careers"
+    },
+    {
+      "company": "United Pharma Technologies INC",
+      "platform": "smartrecruiters",
+      "slug": "unitedpharma",
+      "api": "https://api.smartrecruiters.com/v1/companies/unitedpharma/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20United%20Pharma%20Technologies%20careers"
     },
     {
       "company": "University Of Nevada Reno",
@@ -513,11 +520,11 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20University%20Of%20Nevada%20Reno%20careers"
     },
     {
-      "company": "United Pharma Technologies INC",
-      "platform": "smartrecruiters",
-      "slug": "unitedpharma",
-      "api": "https://api.smartrecruiters.com/v1/companies/unitedpharma/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20United%20Pharma%20Technologies%20careers"
+      "company": "Cirrus Logic International Semiconductor LTD",
+      "platform": "greenhouse",
+      "slug": "cirruslogic",
+      "api": "https://boards-api.greenhouse.io/v1/boards/cirruslogic/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Cirrus%20Logic%20International%20Semiconductor%20LTD%20careers"
     },
     {
       "company": "Mygo Consulting INC",
@@ -590,18 +597,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Dgn%20Technologies%20careers"
     },
     {
-      "company": "Raas Infotek LLC",
-      "platform": "smartrecruiters",
-      "slug": "raasinfotek",
-      "api": "https://api.smartrecruiters.com/v1/companies/raasinfotek/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Raas%20Infotek%20careers"
-    },
-    {
       "company": "Samsara INC",
       "platform": "greenhouse",
       "slug": "samsara",
       "api": "https://boards-api.greenhouse.io/v1/boards/samsara/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Samsara%20careers"
+    },
+    {
+      "company": "Raas Infotek LLC",
+      "platform": "smartrecruiters",
+      "slug": "raasinfotek",
+      "api": "https://api.smartrecruiters.com/v1/companies/raasinfotek/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Raas%20Infotek%20careers"
     },
     {
       "company": "Anaplan INC",
@@ -632,6 +639,13 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Samsung%20Research%20careers"
     },
     {
+      "company": "Renesas Electronics America INC",
+      "platform": "smartrecruiters",
+      "slug": "renesaselectronics",
+      "api": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Renesas%20Electronics%20careers"
+    },
+    {
       "company": "Servicetitan INC",
       "platform": "smartrecruiters",
       "slug": "servicetitan",
@@ -644,13 +658,6 @@
       "slug": "technogen",
       "api": "https://api.smartrecruiters.com/v1/companies/technogen/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Technogen%20careers"
-    },
-    {
-      "company": "Renesas Electronics America INC",
-      "platform": "smartrecruiters",
-      "slug": "renesaselectronics",
-      "api": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Renesas%20Electronics%20careers"
     },
     {
       "company": "Vitesse Group INC",
@@ -730,18 +737,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Agap%20Technologies%20careers"
     },
     {
-      "company": "Aaa Texas LLC",
-      "platform": "smartrecruiters",
-      "slug": "aaa-texas",
-      "api": "https://api.smartrecruiters.com/v1/companies/aaa-texas/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Aaa%20Texas%20careers"
-    },
-    {
       "company": "Akvarr INC",
       "platform": "smartrecruiters",
       "slug": "akvarr",
       "api": "https://api.smartrecruiters.com/v1/companies/akvarr/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Akvarr%20careers"
+    },
+    {
+      "company": "Aaa Texas LLC",
+      "platform": "smartrecruiters",
+      "slug": "aaa-texas",
+      "api": "https://api.smartrecruiters.com/v1/companies/aaa-texas/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Aaa%20Texas%20careers"
     },
     {
       "company": "Econtenti INC",
@@ -912,18 +919,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Cargurus%20careers"
     },
     {
-      "company": "Hitachi Solutions America LTD Hsal",
-      "platform": "smartrecruiters",
-      "slug": "hitachisolutions",
-      "api": "https://api.smartrecruiters.com/v1/companies/hitachisolutions/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Hitachi%20LTD%20Hsal%20careers"
-    },
-    {
       "company": "Illumio INC",
       "platform": "ashby",
       "slug": "illumio",
       "api": "https://api.ashbyhq.com/posting-api/job-board/illumio",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Illumio%20careers"
+    },
+    {
+      "company": "Hitachi Solutions America LTD Hsal",
+      "platform": "smartrecruiters",
+      "slug": "hitachisolutions",
+      "api": "https://api.smartrecruiters.com/v1/companies/hitachisolutions/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Hitachi%20LTD%20Hsal%20careers"
     },
     {
       "company": "Next Gen Software Solutions LLC",
@@ -933,18 +940,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Next%20Gen%20Software%20careers"
     },
     {
-      "company": "Skydio INC",
-      "platform": "ashby",
-      "slug": "skydio",
-      "api": "https://api.ashbyhq.com/posting-api/job-board/skydio",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Skydio%20careers"
-    },
-    {
       "company": "Rocky Mountain Institute",
       "platform": "greenhouse",
       "slug": "rockymountain",
       "api": "https://boards-api.greenhouse.io/v1/boards/rockymountain/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Rocky%20Mountain%20Institute%20careers"
+    },
+    {
+      "company": "Skydio INC",
+      "platform": "ashby",
+      "slug": "skydio",
+      "api": "https://api.ashbyhq.com/posting-api/job-board/skydio",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Skydio%20careers"
     },
     {
       "company": "Upgrade INC",
@@ -1171,6 +1178,13 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Figma%20careers"
     },
     {
+      "company": "Klaviyo INC",
+      "platform": "greenhouse",
+      "slug": "klaviyo",
+      "api": "https://boards-api.greenhouse.io/v1/boards/klaviyo/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Klaviyo%20careers"
+    },
+    {
       "company": "Iron Mountain Information Management LLC",
       "platform": "smartrecruiters",
       "slug": "ironmountain",
@@ -1183,13 +1197,6 @@
       "slug": "katalysthealthcareslifesciences",
       "api": "https://api.smartrecruiters.com/v1/companies/katalysthealthcareslifesciences/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Katalyst%20Healthcares%20Life%20Sciences%20careers"
-    },
-    {
-      "company": "Klaviyo INC",
-      "platform": "greenhouse",
-      "slug": "klaviyo",
-      "api": "https://boards-api.greenhouse.io/v1/boards/klaviyo/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Klaviyo%20careers"
     },
     {
       "company": "M3bi LLC",
@@ -1423,18 +1430,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Amplitude%20careers"
     },
     {
-      "company": "Alpha Numero Technology Solutions",
-      "platform": "smartrecruiters",
-      "slug": "alphanumero",
-      "api": "https://api.smartrecruiters.com/v1/companies/alphanumero/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Alpha%20Numero%20Technology%20careers"
-    },
-    {
       "company": "Ardor It Solutions INC",
       "platform": "smartrecruiters",
       "slug": "ardoritsolutions",
       "api": "https://api.smartrecruiters.com/v1/companies/ardoritsolutions/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Ardor%20It%20careers"
+    },
+    {
+      "company": "Alpha Numero Technology Solutions",
+      "platform": "smartrecruiters",
+      "slug": "alphanumero",
+      "api": "https://api.smartrecruiters.com/v1/companies/alphanumero/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Alpha%20Numero%20Technology%20careers"
     },
     {
       "company": "Coursera INC",
@@ -1522,17 +1529,10 @@
     },
     {
       "company": "Sophos INC",
-      "platform": "lever",
+      "platform": "ashby",
       "slug": "sophos",
-      "api": "https://api.lever.co/v0/postings/sophos?mode=json",
+      "api": "https://api.ashbyhq.com/posting-api/job-board/sophos",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Sophos%20careers"
-    },
-    {
-      "company": "Taxbit INC",
-      "platform": "greenhouse",
-      "slug": "taxbit",
-      "api": "https://boards-api.greenhouse.io/v1/boards/taxbit/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Taxbit%20careers"
     },
     {
       "company": "Talent It Services INC",
@@ -1540,6 +1540,13 @@
       "slug": "talentit",
       "api": "https://api.smartrecruiters.com/v1/companies/talentit/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Talent%20It%20careers"
+    },
+    {
+      "company": "Taxbit INC",
+      "platform": "greenhouse",
+      "slug": "taxbit",
+      "api": "https://boards-api.greenhouse.io/v1/boards/taxbit/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Taxbit%20careers"
     },
     {
       "company": "Toast INC",
@@ -1694,6 +1701,13 @@
       "slug": "mcafee",
       "api": "https://boards-api.greenhouse.io/v1/boards/mcafee/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Mcafee%20careers"
+    },
+    {
+      "company": "Medeanalytics INC",
+      "platform": "greenhouse",
+      "slug": "medeanalytics",
+      "api": "https://boards-api.greenhouse.io/v1/boards/medeanalytics/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Medeanalytics%20careers"
     },
     {
       "company": "My3tech INC",
@@ -1892,18 +1906,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Everquote%20careers"
     },
     {
-      "company": "Gnrsystems INC",
-      "platform": "smartrecruiters",
-      "slug": "gnrsystems",
-      "api": "https://api.smartrecruiters.com/v1/companies/gnrsystems/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Gnrsystems%20careers"
-    },
-    {
       "company": "Gotion INC",
       "platform": "greenhouse",
       "slug": "gotion",
       "api": "https://boards-api.greenhouse.io/v1/boards/gotion/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Gotion%20careers"
+    },
+    {
+      "company": "Gnrsystems INC",
+      "platform": "smartrecruiters",
+      "slug": "gnrsystems",
+      "api": "https://api.smartrecruiters.com/v1/companies/gnrsystems/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Gnrsystems%20careers"
     },
     {
       "company": "Hinge Health INC",
@@ -1920,18 +1934,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Hni%20careers"
     },
     {
-      "company": "Hot Topic INC",
-      "platform": "lever",
-      "slug": "hottopic",
-      "api": "https://api.lever.co/v0/postings/hottopic?mode=json",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Hot%20Topic%20careers"
-    },
-    {
       "company": "Houzz INC",
       "platform": "lever",
       "slug": "houzz",
       "api": "https://api.lever.co/v0/postings/houzz?mode=json",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Houzz%20careers"
+    },
+    {
+      "company": "Hot Topic INC",
+      "platform": "lever",
+      "slug": "hottopic",
+      "api": "https://api.lever.co/v0/postings/hottopic?mode=json",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Hot%20Topic%20careers"
     },
     {
       "company": "Intersystems Corporation",
@@ -1955,18 +1969,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20It%20Rysources%20careers"
     },
     {
-      "company": "Juul Labs INC",
-      "platform": "greenhouse",
-      "slug": "juullabs",
-      "api": "https://boards-api.greenhouse.io/v1/boards/juullabs/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Juul%20Labs%20careers"
-    },
-    {
       "company": "Justworks INC",
       "platform": "greenhouse",
       "slug": "justworks",
       "api": "https://boards-api.greenhouse.io/v1/boards/justworks/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Justworks%20careers"
+    },
+    {
+      "company": "Juul Labs INC",
+      "platform": "greenhouse",
+      "slug": "juullabs",
+      "api": "https://boards-api.greenhouse.io/v1/boards/juullabs/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Juul%20Labs%20careers"
     },
     {
       "company": "Keshav Consulting Solutions LLC",
@@ -2011,18 +2025,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Pinnacle%20Technical%20Resources%20careers"
     },
     {
-      "company": "Pma Consultants LLC",
-      "platform": "lever",
-      "slug": "pmaconsultants",
-      "api": "https://api.lever.co/v0/postings/pmaconsultants?mode=json",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Pma%20Consultants%20careers"
-    },
-    {
       "company": "Planet Labs Pbc",
       "platform": "greenhouse",
       "slug": "planetlabs",
       "api": "https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Planet%20Labs%20Pbc%20careers"
+    },
+    {
+      "company": "Pma Consultants LLC",
+      "platform": "lever",
+      "slug": "pmaconsultants",
+      "api": "https://api.lever.co/v0/postings/pmaconsultants?mode=json",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Pma%20Consultants%20careers"
     },
     {
       "company": "Rescale INC",
@@ -2214,18 +2228,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Duolingo%20careers"
     },
     {
-      "company": "Ensono INC",
-      "platform": "greenhouse",
-      "slug": "ensono",
-      "api": "https://boards-api.greenhouse.io/v1/boards/ensono/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Ensono%20careers"
-    },
-    {
       "company": "E Pro Technologies LLC",
       "platform": "smartrecruiters",
       "slug": "epro",
       "api": "https://api.smartrecruiters.com/v1/companies/epro/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20E%20Pro%20Technologies%20careers"
+    },
+    {
+      "company": "Ensono INC",
+      "platform": "greenhouse",
+      "slug": "ensono",
+      "api": "https://boards-api.greenhouse.io/v1/boards/ensono/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Ensono%20careers"
     },
     {
       "company": "Equinox Holdings INC",
@@ -2340,18 +2354,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Prospance%20careers"
     },
     {
-      "company": "Reltio INC",
-      "platform": "greenhouse",
-      "slug": "reltio",
-      "api": "https://boards-api.greenhouse.io/v1/boards/reltio/jobs?content=true",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Reltio%20careers"
-    },
-    {
       "company": "Red Oak Tech INC",
       "platform": "smartrecruiters",
       "slug": "redoaktech",
       "api": "https://api.smartrecruiters.com/v1/companies/redoaktech/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Red%20Oak%20Tech%20careers"
+    },
+    {
+      "company": "Reltio INC",
+      "platform": "greenhouse",
+      "slug": "reltio",
+      "api": "https://boards-api.greenhouse.io/v1/boards/reltio/jobs?content=true",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Reltio%20careers"
     },
     {
       "company": "Retail Business Services LLC",
@@ -2382,18 +2396,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Scopely%20careers"
     },
     {
-      "company": "Segula Technologies Usa INC",
-      "platform": "smartrecruiters",
-      "slug": "segulatechnologies",
-      "api": "https://api.smartrecruiters.com/v1/companies/segulatechnologies/postings",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Segula%20Technologies%20careers"
-    },
-    {
       "company": "Simplisafe INC",
       "platform": "greenhouse",
       "slug": "simplisafe",
       "api": "https://boards-api.greenhouse.io/v1/boards/simplisafe/jobs?content=true",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Simplisafe%20careers"
+    },
+    {
+      "company": "Segula Technologies Usa INC",
+      "platform": "smartrecruiters",
+      "slug": "segulatechnologies",
+      "api": "https://api.smartrecruiters.com/v1/companies/segulatechnologies/postings",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Segula%20Technologies%20careers"
     },
     {
       "company": "Smarsh INC",
@@ -2403,25 +2417,18 @@
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Smarsh%20careers"
     },
     {
-      "company": "Socure INC",
-      "platform": "ashby",
-      "slug": "socure",
-      "api": "https://api.ashbyhq.com/posting-api/job-board/socure",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Socure%20careers"
-    },
-    {
-      "company": "Softworld LLC",
-      "platform": "lever",
-      "slug": "softworld",
-      "api": "https://api.lever.co/v0/postings/softworld?mode=json",
-      "careers_url": "https://duckduckgo.com/?q=!ducky%20Softworld%20careers"
-    },
-    {
       "company": "Spar Information Systems LLC",
       "platform": "smartrecruiters",
       "slug": "sparinformationsystems",
       "api": "https://api.smartrecruiters.com/v1/companies/sparinformationsystems/postings",
       "careers_url": "https://duckduckgo.com/?q=!ducky%20Spar%20Information%20Systems%20careers"
+    },
+    {
+      "company": "Socure INC",
+      "platform": "ashby",
+      "slug": "socure",
+      "api": "https://api.ashbyhq.com/posting-api/job-board/socure",
+      "careers_url": "https://duckduckgo.com/?q=!ducky%20Socure%20careers"
     },
     {
       "company": "Syndigo LLC",
@@ -2492,13 +2499,6 @@
       "slug": "citi/en-US",
       "api": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/en-US/jobs",
       "careers_url": "https://jobs.citi.com"
-    },
-    {
-      "company": "Revature",
-      "platform": "workday",
-      "slug": "revature/revaturecareers",
-      "api": "https://revature.wd1.myworkdayjobs.com/wday/cxs/revature/revaturecareers/jobs",
-      "careers_url": "https://revature.com/careers/"
     },
     {
       "company": "Yext INC",
