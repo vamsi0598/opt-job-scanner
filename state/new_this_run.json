@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "company": "Okta INC",
+    "title": "Senior Site Reliability Engineer - Kubernetes & AWS",
+    "location": "Bengaluru",
+    "apply_link": "https://www.okta.com/company/careers/opportunity/8255907?gh_jid=8255907",
+    "source": "greenhouse",
+    "first_seen": "2026-11-24T17:16:45-05:00",
+    "last_seen": "2026-11-24T17:16:45-05:00"
+  },
+  {
+    "company": "Pathai INC",
+    "title": "Staff Site Reliability Engineer",
+    "location": "Boston or NYC (Preferred), Remote Considered",
+    "apply_link": "https://www.pathai.com/careers/8961170002?gh_jid=8961170002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-24T17:16:45-05:00",
+    "last_seen": "2026-11-24T17:16:45-05:00"
+  }
+]
