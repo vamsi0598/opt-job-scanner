@@ -1,11 +1,47 @@
 [
   {
     "company": "Renesas Electronics America INC",
-    "title": "Staff DevOps Engineer ",
-    "location": "Bengaluru, KA, in",
-    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000163606719",
+    "title": "Senior DevOps Engineer",
+    "location": "Katowice, Silesian Voivodeship, pl",
+    "apply_link": "https://api.smartrecruiters.com/v1/companies/renesaselectronics/postings/744000163910079",
     "source": "smartrecruiters",
-    "first_seen": "2026-11-25T16:33:13-05:00",
-    "last_seen": "2026-11-25T16:33:13-05:00"
+    "first_seen": "2026-11-26T16:20:49-05:00",
+    "last_seen": "2026-11-26T16:20:49-05:00"
+  },
+  {
+    "company": "Nium INC",
+    "title": "DevOps Engineer",
+    "location": "Malta",
+    "apply_link": "https://jobs.lever.co/nium/3a802f58-972f-4b44-855b-3c60841f0947",
+    "source": "lever",
+    "first_seen": "2026-11-26T16:20:49-05:00",
+    "last_seen": "2026-11-26T16:20:49-05:00"
+  },
+  {
+    "company": "Nium INC",
+    "title": "DevOps Team Lead",
+    "location": "Malta",
+    "apply_link": "https://jobs.lever.co/nium/96e4a5b4-3c8a-4a94-80a6-5370d1f26691",
+    "source": "lever",
+    "first_seen": "2026-11-26T16:20:49-05:00",
+    "last_seen": "2026-11-26T16:20:49-05:00"
+  },
+  {
+    "company": "Gusto INC",
+    "title": "Site Reliability Engineer ",
+    "location": "Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+    "apply_link": "https://job-boards.greenhouse.io/gusto/jobs/8394537",
+    "source": "greenhouse",
+    "first_seen": "2026-11-26T16:20:49-05:00",
+    "last_seen": "2026-11-26T16:20:49-05:00"
+  },
+  {
+    "company": "Ixl Learning INC",
+    "title": "Senior Software Engineer, DevOps",
+    "location": "San Mateo, CA",
+    "apply_link": "https://www.ixl.com/company/jobs?gh_jid=8963094002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-26T16:20:49-05:00",
+    "last_seen": "2026-11-26T16:20:49-05:00"
   }
 ]
